@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BDWM",
+  "name": "Bwt143's Doctor Who Mod",
+  "description": "A mod based around Doctor Who.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bwt143"],
+  "credits": "Josia50",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
